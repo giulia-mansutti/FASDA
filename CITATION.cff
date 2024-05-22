@@ -1,0 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: FASDA Analysis
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Giulia
+    family-names: Mansutti
+  - given-names: 'Néstor '
+    family-names: Uribe-Patarroyo
+repository-code: 'https://github.com/giulia-mansutti/FASDA.git'
+version: '1.0'
+date-released: '2024-05-22'
