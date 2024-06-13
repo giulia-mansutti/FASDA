@@ -11,7 +11,9 @@ We provide two scripts to process two datasets acquired from a dysplastic nevus 
 
 Follow these steps to run the two scripts:
 
-1. Download the two zip files containing the datasets provided in [1]
+1. Download the two datasets at the following links:
+   - Parallel polarizers: https://figshare.com/s/ad5e4c031156ff859947
+   - Crossed polarizers:  https://figshare.com/s/8d4753e797943776b72e
 
 2. Unzip the downladed zip files and move the two uncompressed folders ("Parallel Polarizers" and "Crossed Polarizers") into the "Data" folder located in the main FASDA folder (where the scripts are located)
 
